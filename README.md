@@ -4,5 +4,5 @@
 
 - ⚙️ I use daily: `.php`, `.js`, `.tsx`, `.html`, `.css`, `.svg`, `.fig`, `.ai`
 - 🌍 I'm mostly active within the **WordPress Community**
-- 💼 Formerly: @StellarWP, @TheEventsCalendar
+- 💼 Formerly: @StellarWP, @TheEventsCalendar, @ModernTribe
 - 💬 `ping` me about **strategy**, **design**, **product**, **development**, **design thinking**, **ux**
